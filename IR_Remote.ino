@@ -1,3 +1,4 @@
+// you will need this library https://github.com/shirriff/Arduino-IRremote
 //IR_Remote
 unsigned long irCodes[] = {
 0x41BEB04F,//right
